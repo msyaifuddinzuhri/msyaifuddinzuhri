@@ -2,7 +2,7 @@
 <p><em>Fullstack Developer at <a href="https://www.instagram.com/cvsbo/" target="_blank">CV. Sukses Bisnis Online Malang</a>
 </em></p>
 
-[![Linkedin: Mochammad Syaifuddin Zuhri](https://img.shields.io/badge/mochammad-syaifuddin-zuhri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mochammad-syaifuddin-zuhri/)](https://www.linkedin.com/in/mochammad-syaifuddin-zuhri/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-mochammadsyaifuddinzuhri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mochammad-syaifuddin-zuhri/)](https://www.linkedin.com/in/mochammad-syaifuddin-zuhri/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/msyaifuddinzuhri?label=follow&style=social)](https://github.com/msyaifuddinzuhri)
 
 ## ⚡ GitHub Stats
